@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PRM392_Lab1_Instagram</string>
+    <string name="formatted_text_forgot_password">Forgot your login detail? <b>Get help signing in.</b></string>
+    <string name="formatted_text_login_with_fb"><b>Log in with Facebook.</b></string>
+    <string name="formatted_text_signup_with_fb">Don\'t have an account? <b>Sign up.</b></string>
+</resources>
